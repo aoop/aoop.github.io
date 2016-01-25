@@ -2,8 +2,7 @@
 #### Contact
 sergiu.nisioi@fmi.unibuc.ro
 **Orar**
-* to do
 #### Notarea
-* to do
+###### to do 
 #### Proiecte
-* to do
+###### to do 
