@@ -1,7 +1,10 @@
 # Informatii
 #### Contact
-sergiu.nisioi@fmi.unibuc.ro
 **Orar**
+sergiu.nisioi@fmi.unibuc.ro
+
+
+
 #### Notarea
 ###### to do 
 #### Proiecte
