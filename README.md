@@ -1,4 +1,4 @@
-# Informatii
+# Informații
 #### [Contact](mailto:sergiu.nisioi@fmi.unibuc.ro)
 **Orar**
 * Luni, Marti, Miercuri, Joi, Vineri
