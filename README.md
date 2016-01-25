@@ -1,7 +1,7 @@
 # Informatii
-#### Contact
+#### [Contact](mailto:sergiu.nisioi@fmi.unibuc.ro)
 **Orar**
-sergiu.nisioi@fmi.unibuc.ro
+
 
 
 
