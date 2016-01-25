@@ -11,8 +11,9 @@
 
 #### Notarea
 * %Laborator + %Curs 
+
 #### Idei de proiecte 
-* Java REST API
+* REST API
 * Synchronization and Concurrency
 * Transactional Memory
 * Fault Tolerance and Audit
