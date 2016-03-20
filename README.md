@@ -20,7 +20,7 @@
 
 #### Metodologie
 1. Alegere proiect 
-  1. Până la data D1, trebuie să alegeți un proiect pe baza a două idei de mai jos
+  1. Până la data D1, trebuie să alegeți un proiect care să includă două idei de mai jos
   2. Trimiteți un mail cu o propunere detaliată de proiect în care să includeți conceptele pe care le veți folosi
   3. Orice întârziere de o zi se penalizează cu jumătate un punct la nota finală
 2. Prezentați o primă versiune la orice laborator până la data D2
@@ -47,4 +47,10 @@
 * Proxy server 
 * Email client [link](http://www.java2s.com/Code/Java/Network-Protocol/Email.htm)
 * Reflection [link](http://tutorials.jenkov.com/java-reflection/index.html)
+* [JUnit](http://www.tutorialspoint.com/junit/junit_test_framework.htm)
+* [gradle](http://rominirani.com/2014/08/12/gradle-tutorial-part-4-java-web-applications/)
+* [maven](https://maven.apache.org/what-is-maven.html)
+* Cucumber testing framework [link](https://cucumber.io/docs/reference/jvm#java), [tutorial](http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-junit/)
+* [RMI](http://www.javatpoint.com/RMI)
+* [Servlets](http://www.tutorialspoint.com/servlets/)
 * Orice altceva, cu obligația de a discuta inainte
