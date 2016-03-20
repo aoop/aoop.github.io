@@ -14,9 +14,9 @@
 * 40% Laborator + 60% Curs 
 
 #### Notarea la laborator se face pe bază de proiect:
-		* D1, deadline pentru alegerea proiectului: 3 aprilie
-		* D2, deadline versiune preliminară: 24 aprilie
-		* D3, deadline prezentare + trimitere + documentație: 3 iunie
+		* D1, deadline pentru alegerea proiectului: **3 aprilie**
+		* D2, deadline versiune preliminară: **24 aprilie**
+		* D3, deadline prezentare + trimitere + documentație: **3 iunie**
 
 #### Metodologie
 	1. Alegere proiect 
