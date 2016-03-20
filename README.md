@@ -36,7 +36,7 @@
 	* prezentarea proiectului la unul dintre laboratoare
 	* finalizarea proiectului in deadline-ul stabilit 
 
-#### Idei de proiecte 
+#### Idei și unelte de integrat în proiecte 
 * Web crawler
 * REST API [link](https://spring.io/guides/gs/rest-service/) - un serviciu REST care să implementeze cel puțin GET, POST și DELETE
 * Concurrency and Fault Tolerance [link](https://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka)
