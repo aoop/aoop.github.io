@@ -18,18 +18,18 @@
 		* D2, deadline versiune preliminara: 24 aprilie
 		* D3, deadline prezentare + trimitere + documentatie: 3 iunie
 
-#### Metodologie:
+#### Metodologie
 	1. Alegere proiect 
-		1. Până la data D1, trebuie să alegeți un proiect pe baza a două idei de mai jos
-		2. Trimiteți un mail cu o propunere detaliată de proiect în care să includeți conceptele pe care le veți folosi
-		3. Orice întârziere de o zi se penalizează cu jumătate un punct la nota finală
+	  1. Până la data D1, trebuie să alegeți un proiect pe baza a două idei de mai jos
+	  2. Trimiteți un mail cu o propunere detaliată de proiect în care să includeți conceptele pe care le veți folosi
+	  3. Orice întârziere de o zi se penalizează cu jumătate un punct la nota finală
 	2. Prezentați o primă versiune la orice laborator până la data D2
-		1. Discutăm eventuale probleme și corecturi necesare 
-		2. Orice întârziere de două zile se penalizează cu jumătate de punct la nota finală
+	  1. Discutăm eventuale probleme și corecturi necesare 
+	  2. Orice întârziere de două zile se penalizează cu jumătate de punct la nota finală
 	3. D3 reprezintă ultima zi în care puteti prezenta proiectul fără a fi penalizați
-		1. Orice întârziere de două zile se penalizează cu un punct la nota finală
+	  1. Orice întârziere de două zile se penalizează cu un punct la nota finală
 
-#### Criterii de evaluare:	
+#### Criterii de evaluare	
 	* structurarea codului după practici OOP
 	* corectitudinea codului
 	* existența scenariilor de test
