@@ -53,4 +53,5 @@
 * Cucumber testing framework [link](https://cucumber.io/docs/reference/jvm#java), [tutorial](http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-junit/)
 * [RMI](http://www.javatpoint.com/RMI)
 * [Servlets](http://www.tutorialspoint.com/servlets/)
+* Design patterns, [link](http://www.tutorialspoint.com/design_pattern/index.htm)
 * Orice altceva, cu obligația de a discuta inainte
