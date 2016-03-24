@@ -20,7 +20,7 @@
 
 #### Metodologie
 1. Alegere proiect 
-  1. Până la data D1, trebuie să alegeți un proiect care să includă două idei de mai jos
+  1. Până la data D1, trebuie să alegeți un proiect care să includă cel puțin două idei, tehnologii, concepte de mai jos
   2. Trimiteți un mail cu o propunere detaliată de proiect în care să includeți conceptele pe care le veți folosi
   3. Orice întârziere de o zi se penalizează cu jumătate un punct la nota finală
 2. Prezentați o primă versiune la orice laborator până la data D2
@@ -39,20 +39,20 @@
 #### Idei și tehnologii de integrat în proiecte 
 * Web crawler
 * Proxy server 
+* Manager de prezențe la laborator (web API)
 * Email client [link](http://www.java2s.com/Code/Java/Network-Protocol/Email.htm)
-* Design patterns, [link](http://www.tutorialspoint.com/design_pattern/index.htm)
 * Interfață grafică
+* Design patterns [link](http://www.tutorialspoint.com/design_pattern/index.htm)
 * Reflection [link](http://tutorials.jenkov.com/java-reflection/index.html)
 * [JUnit](http://www.tutorialspoint.com/junit/junit_test_framework.htm)
 * [gradle](http://rominirani.com/2014/08/12/gradle-tutorial-part-4-java-web-applications/)
 * [maven](https://maven.apache.org/what-is-maven.html)
 * [RMI](http://www.javatpoint.com/RMI)
 * [Servlets](http://www.tutorialspoint.com/servlets/)
-* Cucumber testing framework [link](https://cucumber.io/docs/reference/jvm#java), 
+* Cucumber framework [link](https://cucumber.io/docs/reference/jvm#java), [tutorial](http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-junit/)
 * REST API [link](https://spring.io/guides/gs/rest-service/) - un serviciu REST care să implementeze cel puțin GET, POST și DELETE
 * Concurrency and Fault Tolerance [link](https://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka)
 * JDBC [link1](http://www.tutorialspoint.com/jdbc/jdbc-introduction.htm), [link2](http://www.java2s.com/Code/Java/Database-SQL-JDBC/CatalogDatabase-SQL-JDBC.htm)
 * Mockito [link](http://docs.mockito.googlecode.com/hg/org/mockito/Mockito.html)
-* Jetty [link](http://www.eclipse.org/jetty/documentation/current/), [Hello World Example](http://www.eclipse.org/jetty/documentation/current/advanced-embedding.html#writing-helloworld-example)
-[tutorial](http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-junit/)
+* Jetty [link](http://www.eclipse.org/jetty/documentation/current/), [Hello, World example](http://www.eclipse.org/jetty/documentation/current/advanced-embedding.html#writing-helloworld-example)
 * Orice altceva, cu obligația de a discuta inainte
