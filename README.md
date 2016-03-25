@@ -51,7 +51,7 @@
 * [Servlets](http://www.tutorialspoint.com/servlets/)
 * Cucumber framework [link](https://cucumber.io/docs/reference/jvm#java), [tutorial](http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-junit/)
 * REST API [link](https://spring.io/guides/gs/rest-service/) - un serviciu REST care să implementeze cel puțin GET, POST și DELETE
-* Concurrency and Fault Tolerance [actors](http://rerun.me/2014/09/11/introducing-actors-akka-notes-part-1/) [link](https://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka), [getting started](http://doc.akka.io/docs/akka/2.0.2/intro/getting-started-first-java.html)
+* Concurrency and Fault Tolerance [actors](http://rerun.me/2014/09/11/introducing-actors-akka-notes-part-1/), [getting started](http://doc.akka.io/docs/akka/2.0.2/intro/getting-started-first-java.html), [akka](https://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka)
 * JDBC [link1](http://www.tutorialspoint.com/jdbc/jdbc-introduction.htm), [link2](http://www.java2s.com/Code/Java/Database-SQL-JDBC/CatalogDatabase-SQL-JDBC.htm)
 * Mockito [link](http://docs.mockito.googlecode.com/hg/org/mockito/Mockito.html)
 * Jetty [link](http://www.eclipse.org/jetty/documentation/current/), [Hello, World example](http://www.eclipse.org/jetty/documentation/current/advanced-embedding.html#writing-helloworld-example)
