@@ -37,20 +37,23 @@
 	* finalizarea proiectului in deadline-ul stabilit 
 
 #### Idei și tehnologii de integrat în proiecte 
+Exmple de proiecte:
 * Web crawler
 * Proxy server 
 * Manager de prezențe la laborator (web API)
 * Email client [link](http://www.java2s.com/Code/Java/Network-Protocol/Email.htm)
+Concepte și tehnologii:
 * Interfață grafică
 * Design patterns [link](http://www.tutorialspoint.com/design_pattern/index.htm)
 * Reflection [link](http://tutorials.jenkov.com/java-reflection/index.html)
 * [JUnit](http://www.tutorialspoint.com/junit/junit_test_framework.htm)
 * [gradle](http://rominirani.com/2014/08/12/gradle-tutorial-part-4-java-web-applications/)
-* [maven](https://maven.apache.org/what-is-maven.html)
+* [maven](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 * [RMI](http://www.javatpoint.com/RMI)
 * [Servlets](http://www.tutorialspoint.com/servlets/)
 * Cucumber framework [link](https://cucumber.io/docs/reference/jvm#java), [tutorial](http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-junit/)
 * REST API [link](https://spring.io/guides/gs/rest-service/) - un serviciu REST care să implementeze cel puțin GET, POST și DELETE
+* JSON serialization [jackson tutorial](http://www.tutorialspoint.com/jackson/jackson_first_application.htm), [annotations](http://www.baeldung.com/jackson-annotations)
 * Concurrency and Fault Tolerance [actors](http://rerun.me/2014/09/11/introducing-actors-akka-notes-part-1/), [getting started](http://doc.akka.io/docs/akka/2.0.2/intro/getting-started-first-java.html), [akka use cases](http://doc.akka.io/docs/akka/2.4.2/intro/use-cases.html), [hello, world example](http://www.lightbend.com/activator/template/hello-akka)
 * JDBC [link1](http://www.tutorialspoint.com/jdbc/jdbc-introduction.htm), [link2](http://www.java2s.com/Code/Java/Database-SQL-JDBC/CatalogDatabase-SQL-JDBC.htm)
 * Mockito [link](http://docs.mockito.googlecode.com/hg/org/mockito/Mockito.html)
