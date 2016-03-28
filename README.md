@@ -21,7 +21,7 @@
 #### Metodologie
 1. Alegere proiect 
   1. Până la data D1, trebuie să alegeți un proiect care să includă cel puțin două idei, tehnologii, concepte de mai jos
-  2. Trimiteți un mail cu o propunere detaliată de proiect în care să includeți conceptele pe care le veți folosi
+  2. Trimiteți un mail cu subject "[Proiect PAO] Prenume Nume Grupa" care să conțină o propunere detaliată de proiect în care includeți conceptele pe care le veți folosi
   3. Orice întârziere de o zi se penalizează cu jumătate un punct la nota finală
 2. Prezentați o primă versiune la orice laborator până la data D2
   1. Discutăm eventuale probleme și corecturi necesare 
