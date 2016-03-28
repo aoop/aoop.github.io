@@ -42,6 +42,7 @@ Exmple de proiecte:
 * Proxy server 
 * Manager de prezențe la laborator (web API)
 * Email client [link](http://www.java2s.com/Code/Java/Network-Protocol/Email.htm)
+
 Concepte și tehnologii:
 * Interfață grafică
 * Design patterns [link](http://www.tutorialspoint.com/design_pattern/index.htm)
