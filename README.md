@@ -56,7 +56,7 @@ Concepte și tehnologii:
 * Cucumber framework [link](https://cucumber.io/docs/reference/jvm#java), [tutorial](http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-junit/)
 * REST service with [Spring](https://spring.io/guides),  [15 minutes tutorial](https://spring.io/guides/gs/rest-service/) 
 * REST service with [JAX-RS](https://jax-rs-spec.java.net/) specification using [Jersey](http://www.vogella.com/tutorials/REST/article.html)
-* REST documentation [Swagger](http://swagger.io/getting-started/), [exemplu REST](http://petstore.swagger.io/) [integrare](https://github.com/swagger-api/swagger-core/wiki/Swagger-Core-Jersey-2.X-Project-Setup-1.5) cu Jersey
+* REST documentation exemplu [REST](http://petstore.swagger.io/) folosind [Swagger](http://swagger.io/getting-started/), exemplu de [integrare](https://github.com/swagger-api/swagger-core/wiki/Swagger-Core-Jersey-2.X-Project-Setup-1.5) cu Jersey
 * JSON serialization [jackson tutorial](http://www.tutorialspoint.com/jackson/jackson_first_application.htm), [annotations](http://www.baeldung.com/jackson-annotations)
 * Concurrency and Fault Tolerance [actors](http://rerun.me/2014/09/11/introducing-actors-akka-notes-part-1/), [getting started](http://doc.akka.io/docs/akka/2.0.2/intro/getting-started-first-java.html), [akka use cases](http://doc.akka.io/docs/akka/2.4.2/intro/use-cases.html), [hello, world example](http://www.lightbend.com/activator/template/hello-akka)
 * JDBC [link1](http://www.tutorialspoint.com/jdbc/jdbc-introduction.htm), [link2](http://www.java2s.com/Code/Java/Database-SQL-JDBC/CatalogDatabase-SQL-JDBC.htm)
