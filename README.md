@@ -53,6 +53,7 @@ Concepte și tehnologii:
 * [maven](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 * [RMI](http://www.javatpoint.com/RMI)
 * [Servlets](http://www.tutorialspoint.com/servlets/)
+* [JMS](http://www.javatpoint.com/jms-tutorial)
 * Cucumber framework [link](https://cucumber.io/docs/reference/jvm#java), [tutorial](http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-junit/)
 * REST service with [Spring](https://spring.io/guides),  [15 minutes tutorial](https://spring.io/guides/gs/rest-service/) 
 * REST service with [JAX-RS](https://jax-rs-spec.java.net/) specification using [Jersey](http://www.vogella.com/tutorials/REST/article.html)
