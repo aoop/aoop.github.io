@@ -1,4 +1,4 @@
-# Informații
+# [Informații](http://aoop.github.io/)
 #### [Contact](mailto:sergiu.nisioi@fmi.unibuc.ro)
 **[Orar](docs/orar.jpeg)**
 
