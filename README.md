@@ -55,6 +55,7 @@ Concepte și tehnologii:
 * [Servlets](http://www.tutorialspoint.com/servlets/)
 * [Reactive Streams](http://www.reactive-streams.org/), [documentation](http://www.reactive-streams.org/announce-1.0.0)
 * [JMS](http://www.javatpoint.com/jms-tutorial)
+* Play framework [tutorials](https://www.playframework.com/documentation/2.5.x/Tutorials)
 * Cucumber framework [link](https://cucumber.io/docs/reference/jvm#java), [tutorial](http://www.hascode.com/2014/12/bdd-testing-with-cucumber-java-and-junit/)
 * REST service with [Spring](https://spring.io/guides),  [15 minutes tutorial](https://spring.io/guides/gs/rest-service/) 
 * REST service with [JAX-RS](https://jax-rs-spec.java.net/) specification using [Jersey](http://www.vogella.com/tutorials/REST/article.html)
