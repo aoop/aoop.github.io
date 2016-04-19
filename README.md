@@ -1,5 +1,5 @@
 # [Informații](http://aoop.github.io/)
-#### [Contact](mailto:sergiu.nisioi@fmi.unibuc.ro)
+#### [Contact](mailto:sergiu.nisioi@fmi.unibuc.ro) & [About](http://nlp.unibuc.ro/people/snisioi.html)
 **[Orar](docs/orar.jpeg)**
 
 
